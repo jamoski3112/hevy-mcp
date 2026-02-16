@@ -13,7 +13,7 @@ This is a Model Context Protocol (MCP) server that provides an interface to the 
 
 1. Navigate to the project directory:
    ```bash
-   cd hevy-mcp-server
+   cd hevy-mcp
    ```
 
 2. Install dependencies:
