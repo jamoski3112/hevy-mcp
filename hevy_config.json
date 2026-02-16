@@ -3,7 +3,7 @@
     "hevy": {
       "command": "node",
       "args": [
-        "/Users/dda500264/Desktop/dash/hevy-mcp-server/dist/index.js"
+        "/home/ubuntu/hevy-mcp-server/dist/index.js"
       ],
       "env": {
         "HEVY_API_KEY": "582f872a-d1d7-xxxxx-xxxx-xxxxxxx"
